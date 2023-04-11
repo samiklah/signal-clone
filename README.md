@@ -9,4 +9,4 @@
 
 ![Signal Clone with React Native and Expo](Screenshot.png?raw=true "Signal Clone with React Native and Expo")
 
-**Sonny**
+
